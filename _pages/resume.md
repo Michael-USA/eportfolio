@@ -5,6 +5,7 @@ title: "Resume"
 
 [Resume as PDF](/eportfolio/assets/resume.pdf)
 
+***
 # Michael Zuppardo
 - **Email:** mvz122302@gmail.com
 - **Phone:** (504) 228-1798
