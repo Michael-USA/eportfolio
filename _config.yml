@@ -56,8 +56,8 @@ plugins:
 
 author:
   name   : "Michael Zuppardo"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "computer scientist, gamer"
+  avatar : "/assets/images/me.jpg"
+  bio    : "Computer science and gaming enthusiast"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
