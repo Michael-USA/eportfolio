@@ -9,4 +9,4 @@ tags:
 
 Hi there! I made a pdf using LaTeX!
 
-[Click here to check it out!](../assets/LaTeX.pdf)
+[Click here to check it out!](/eportfolio/assets/LaTeX.pdf)
